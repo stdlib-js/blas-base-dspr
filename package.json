@@ -40,6 +40,8 @@
     "@stdlib/assert-is-error": "^0.2.2",
     "@stdlib/blas-base-assert-is-layout": "^0.0.2",
     "@stdlib/blas-base-assert-is-matrix-triangle": "^0.0.2",
+    "@stdlib/ndarray-base-assert-is-column-major-string": "github:stdlib-js/ndarray-base-assert-is-column-major-string#main",
+    "@stdlib/ndarray-base-assert-is-row-major-string": "github:stdlib-js/ndarray-base-assert-is-row-major-string#main",
     "@stdlib/strided-base-stride2offset": "^0.1.0",
     "@stdlib/string-format": "^0.2.2",
     "@stdlib/types": "^0.4.3",

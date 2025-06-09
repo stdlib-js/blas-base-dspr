@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-06-09)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ed487e8`](https://github.com/stdlib-js/stdlib/commit/ed487e8db5c2d97407b3011aeb4acbf292c034f1) - **refactor:** use base assertion utility _(by Athan Reines)_
 -   [`e0cef99`](https://github.com/stdlib-js/stdlib/commit/e0cef995e884021db3001dc1a3cfef0ca7b368c2) - **style:** remove extra spaces for regular expressions in publish script _(by Philipp Burckhardt)_
 -   [`da12183`](https://github.com/stdlib-js/stdlib/commit/da121832eca80c36e1e32929e994fef44ca8a4cc) - **feat:** add `blas/base/dspr` [(#2794)](https://github.com/stdlib-js/stdlib/pull/2794) _(by Aman Bhansali, Athan Reines)_
 
