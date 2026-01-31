@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-dspr = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dspr@umd/browser.js' )
+dspr = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dspr@v0.1.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var dspr = require( 'path/to/vendor/umd/blas-base-dspr/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dspr@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dspr@v0.1.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -180,7 +180,7 @@ dspr.ndarray( 'row-major', 'upper', 3, 1.0, x, -1, 2, AP, 1, 0 );
 <html lang="en">
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dspr@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dspr@v0.1.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
