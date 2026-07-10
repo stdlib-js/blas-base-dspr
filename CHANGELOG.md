@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-24)
+## Unreleased (2026-07-10)
 
 <section class="bug-fixes">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`442d4f0`](https://github.com/stdlib-js/stdlib/commit/442d4f0854d1d0954409f2a5ac4d77e93a3b3968) - **docs:** fix heading _(by Athan Reines)_
 -   [`32b7db2`](https://github.com/stdlib-js/stdlib/commit/32b7db285319cc63791eb5f232fb3bf6dc4409e9) - **chore:** fix JavaScript lint errors [(#12678)](https://github.com/stdlib-js/stdlib/pull/12678) _(by titanniya542-spec)_
 -   [`95a8c41`](https://github.com/stdlib-js/stdlib/commit/95a8c41a2a5313aea289e722bed88bc888454233) - **fix:** use correct argument value in error message and propagate JSDoc fixes to sibling packages [(#12302)](https://github.com/stdlib-js/stdlib/pull/12302) _(by Philipp Burckhardt)_
 -   [`5e94b53`](https://github.com/stdlib-js/stdlib/commit/5e94b5366163e541eee1767360ac01eecf4a5df4) - **bench:** use string interpolation in `blas/base/dspr` [(#10516)](https://github.com/stdlib-js/stdlib/pull/10516) _(by Om-A-osc)_
@@ -48,8 +49,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Om-A-osc
 -   Philipp Burckhardt
 -   titanniya542-spec
