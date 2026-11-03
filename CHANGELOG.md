@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-26)
+## Unreleased (2026-11-03)
 
 <section class="bug-fixes">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`6598e05`](https://github.com/stdlib-js/stdlib/commit/6598e05680d46992f2b0972c45b342babffac9c6) - **refactor:** add support for enums in `blas/base/dspr` [(#13455)](https://github.com/stdlib-js/stdlib/pull/13455) _(by Kaustubh Patange)_
 -   [`442d4f0`](https://github.com/stdlib-js/stdlib/commit/442d4f0854d1d0954409f2a5ac4d77e93a3b3968) - **docs:** fix heading _(by Athan Reines)_
 -   [`32b7db2`](https://github.com/stdlib-js/stdlib/commit/32b7db285319cc63791eb5f232fb3bf6dc4409e9) - **chore:** fix JavaScript lint errors [(#12678)](https://github.com/stdlib-js/stdlib/pull/12678) _(by titanniya542-spec)_
